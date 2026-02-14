@@ -37,7 +37,7 @@ class MyApp extends StatelessWidget {
           elevation: 0,
         ),
       ),
-      home: const MyHomePage(title: 'Information ID'),
+      home: const MyHomePage(title: 'Information IDs'),
     );
   }
 }
